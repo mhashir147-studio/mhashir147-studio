@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Mohamed Hashir
+- 👀 I’m interested in Coding and Web Design
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on company
+- 📫 How to reach me mhashir147.studio@gmail.com
+- 👀 Never copy my projects nor code
